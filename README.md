@@ -4,5 +4,5 @@
 
 Fitness × Coding | 拥抱前沿，持续学习 ｜ **[我的技能树](https://cdn.itcox.cn/baseInfo/resume.pdf)**
 
-![ethanz-code's Stats](https://readme-stats-ethanz.vercel.app/api?username=ethanz-code&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-![ethanz-code's Top Languages](https://readme-stats-ethanz.vercel.app/api/top-langs/?username=ethanz-code&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+![hey-yx's Stats](https://readme-stats-ethanz.vercel.app/api?username=hey-yx&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![hey-yx's Top Languages](https://readme-stats-ethanz.vercel.app/api/top-langs/?username=hey-yx&theme=onedark&show_icons=true&hide_border=true&layout=compact)
