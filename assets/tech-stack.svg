@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="60" viewBox="0 0 495 60" role="img" aria-label="技术栈">
+  <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="11.5" font-weight="500" fill="#1f2328">
+    <rect x="0" y="0" width="112" height="26" rx="6" fill="#edf3ef"/>
+    <text x="12" y="17">TypeScript</text>
+    <rect x="122" y="0" width="76" height="26" rx="6" fill="#edf3ef"/>
+    <text x="134" y="17">React</text>
+    <rect x="208" y="0" width="64" height="26" rx="6" fill="#edf3ef"/>
+    <text x="220" y="17">Vue</text>
+    <rect x="282" y="0" width="92" height="26" rx="6" fill="#edf3ef"/>
+    <text x="294" y="17">Node.js</text>
+    <rect x="0" y="34" width="78" height="26" rx="6" fill="#edf3ef"/>
+    <text x="12" y="51">Python</text>
+    <rect x="88" y="34" width="68" height="26" rx="6" fill="#edf3ef"/>
+    <text x="100" y="51">Astro</text>
+    <rect x="166" y="34" width="116" height="26" rx="6" fill="#edf3ef"/>
+    <text x="178" y="51">PostgreSQL</text>
+    <rect x="292" y="34" width="78" height="26" rx="6" fill="#edf3ef"/>
+    <text x="304" y="51">Docker</text>
+  </g>
+</svg>
