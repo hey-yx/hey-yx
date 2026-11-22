@@ -11,6 +11,13 @@
   <img alt="技术栈" src="./assets/tech-stack.svg" width="495" />
 </p>
 
+<h3>公开 Gist</h3>
+<p>
+<a href="https://gist.github.com/hey-yx/511e6e950921d6c5ddb43563b76e683e">阿里云验证码研究</a>：滑块、无痕、V3 拼图的公开研究与实现思路<br>
+<a href="https://gist.github.com/hey-yx/706b1635292ba969231f098c9da431ed">ZCode 礼包自动领取插件验证核心</a>：阿里云无痕验证流程与用法，上游 FireLv/magpie-zcode-gift<br>
+<a href="https://gist.github.com/hey-yx/749847c0e767fce1836f3b8093e72a1a">Safari 画中画保活</a>：修复切下一个视频后 PiP 消失、无法重进的问题
+</p>
+
 <h3>最近在做</h3>
 <p>
 <!-- ACTIVE:START --><img src="./assets/lock.svg" width="11" height="13" align="absmiddle" alt="私有" /> <strong><a href="https://github.com/hey-yx/seal-maker">seal-maker</a></strong>：四类中国公司印章，42/40mm 透明 PNG<br><img src="./assets/lock.svg" width="11" height="13" align="absmiddle" alt="私有" /> <strong><a href="https://github.com/hey-yx/sxeasy">sxeasy</a></strong>：高校生实习盖章、周报月报、打卡服务<br><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/portfolios">portfolios</a></strong>：Personal portfolio site<br><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/stamp-extractor">stamp-extractor</a></strong>：把纸面盖章照片抠成透明底 PNG 的纯前端工具，零依赖，图片不上传<br><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/seal-maker-public">seal-maker-public</a></strong>：标准印章生成器公开版：精仿合同、财务专用章，四种可用样式，浏览器本地生成<br><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/ui-specs">UISpecs</a></strong>：UI 设计规范全文库：整理规范值、场景决策与版型，供人和 AI 引用<br><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/NameYouLike">NameYouLike</a></strong>：英文起名提示词：给 npm 包名、GitHub 仓库名和项目名起名、评审、补齐，附实测结果与候选域名<!-- ACTIVE:END -->
