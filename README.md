@@ -13,10 +13,8 @@
 
 <h3>公开 Gist</h3>
 <p>
-<a href="https://gist.github.com/hey-yx/511e6e950921d6c5ddb43563b76e683e">阿里云验证码研究</a>：滑块、无痕、V3 拼图的公开研究与实现思路<br>
-<a href="https://gist.github.com/hey-yx/706b1635292ba969231f098c9da431ed">ZCode 礼包自动领取插件验证核心</a>：阿里云无痕验证流程与用法，上游 FireLv/magpie-zcode-gift<br>
-<a href="https://gist.github.com/hey-yx/749847c0e767fce1836f3b8093e72a1a">Safari 画中画保活</a>：修复切下一个视频后 PiP 消失、无法重进的问题
-</p>
+<a href="https://gist.github.com/hey-yx/511e6e950921d6c5ddb43563b76e683e">阿里云验证码研究</a><br>
+<a href="https://gist.github.com/hey-yx/749847c0e767fce1836f3b8093e72a1a">Safari 画中画保活</a><br></p>
 
 <h3>最近在做</h3>
 <p>
