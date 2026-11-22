@@ -13,8 +13,8 @@
 
 <h3>公开 Gist</h3>
 <p>
-<a href="https://gist.github.com/hey-yx/511e6e950921d6c5ddb43563b76e683e">阿里云验证码研究</a><br>
-<a href="https://gist.github.com/hey-yx/749847c0e767fce1836f3b8093e72a1a">Safari 画中画保活</a><br></p>
+<a href="https://gist.github.com/hey-yx">gist.github.com/hey-yx</a>
+</p>
 
 <h3>最近在做</h3>
 <p>
