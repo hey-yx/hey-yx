@@ -1,5 +1,5 @@
 <p>
-  <img alt="张永鑫，独立开发者" src="./assets/banner.svg" width="100%" />
+  <img alt="Yongxin Zhang，独立开发者" src="./assets/banner.svg" width="100%" />
 </p>
 
 <p>
@@ -12,7 +12,7 @@
 <tr><td width="50%" valign="top"><img src="./assets/lock.svg" width="11" height="13" align="absmiddle" alt="私有" /> <strong><a href="https://github.com/hey-yx/seal-maker">seal-maker</a></strong><br><sub>精仿生成中国公司电子印章图像：四类模板、标准与实盖扫描两种质感，42/40 mm，600 dpi 透明 PNG</sub></td><td width="50%" valign="top"><img src="./assets/lock.svg" width="11" height="13" align="absmiddle" alt="私有" /> <strong><a href="https://github.com/hey-yx/sxeasy">sxeasy</a></strong><br><sub>面向线上实习场景的一站式平台：覆盖签约、工牌、打卡周报、企业协作、订单履约与后台运营。</sub></td></tr>
 <tr><td width="50%" valign="top"><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/seal-maker-public">seal-maker-public</a></strong><br><sub>标准印章生成器公开版：精仿合同、财务专用章，四种可用样式，浏览器本地生成</sub></td><td width="50%" valign="top"><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/stamp-extractor">stamp-extractor</a></strong><br><sub>把纸面盖章照片抠成透明底 PNG 的纯前端工具，零依赖，图片不上传</sub></td></tr>
 <tr><td width="50%" valign="top"><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/ui-specs">UISpecs</a></strong><br><sub>给 AI 用的 UI 设计规范原文库。收官方规范全文，每个页面数值都能定位到文章具体行号。</sub></td><td width="50%" valign="top"><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/zhifufm-sdk">zhifufm-sdk</a></strong><br><sub>支付FM V2 轻量 TypeScript/Bun/Node SDK：RSA2 签名验签、下单、查单与收银台兜底、异步回调核验</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/portfolios">portfolios</a></strong><br><sub>张永鑫的个人作品集。展示项目交付、技术文章、工作片段和联系方式。</sub></td><td width="50%" valign="top"><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/NameYouLike">NameYouLike</a></strong><br><sub>描述你的产品，拿到 8 个能用的英文名和推荐域名。</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/portfolios">portfolios</a></strong><br><sub>Yongxin Zhang 的个人作品集。展示项目交付、技术文章、工作片段和联系方式。</sub></td><td width="50%" valign="top"><img src="./assets/unlock.svg" width="11" height="13" align="absmiddle" alt="公开" /> <strong><a href="https://github.com/hey-yx/NameYouLike">NameYouLike</a></strong><br><sub>描述你的产品，拿到 8 个能用的英文名和推荐域名。</sub></td></tr>
 </table><!-- ACTIVE:END -->
 
 <h3>最近更新</h3>
